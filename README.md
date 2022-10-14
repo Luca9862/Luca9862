@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Luca9862
 - 👀 I’m a computer science student
 - 🌱 I’m currently learning Mobile app development
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me http://lucacanali.github.me
