@@ -12,6 +12,8 @@
 ![AWS](https://img.shields.io/badge/AWS-Intermediate-yellow)
 ![FireBase](https://img.shields.io/badge/FireBase-Intermediate-yellow)
 ![Data Science](https://img.shields.io/badge/Data%20Science-Intermediate-green)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-green)
+![Vue](https://img.shields.io/badge/Vue-Intermediate-green)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luca9862&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
