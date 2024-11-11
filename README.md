@@ -9,6 +9,7 @@
 ![C](https://img.shields.io/badge/C-Basic-lightgrey)
 ![C++](https://img.shields.io/badge/C++-Basic-lightgrey)
 ![Csharp](https://img.shields.io/badge/Csharp-Advanced-blue)
+![.NET](https://img.shields.io/badge/.NET-Advanced-blue)
 ![Scala](https://img.shields.io/badge/Scala-Basic-lightgrey)
 ![HTML](https://img.shields.io/badge/HTML-Advanced-blue)
 ![SQL](https://img.shields.io/badge/SQL-Advanced-blue)
