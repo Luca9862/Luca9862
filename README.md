@@ -6,7 +6,7 @@
 ![Dart](https://img.shields.io/badge/Dart-Intermediate-blue)
 ![C](https://img.shields.io/badge/C-Basic-lightgrey)
 ![C++](https://img.shields.io/badge/C++-Basic-blue)
-![C#](https://img.shields.io/badge/C-Intermediate-blue)
+![Csharp](https://img.shields.io/badge/Csharp-Intermediate-blue)
 ![Scala](https://img.shields.io/badge/Scala-Basic-blue)
 ![HTML](https://img.shields.io/badge/HTML-Advanced-green)
 ![SQL](https://img.shields.io/badge/SQL-Intermediate-blue)
