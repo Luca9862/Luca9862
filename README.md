@@ -17,10 +17,6 @@
 ![FireBase](https://img.shields.io/badge/FireBase-Intermediate-green)
 ![Data Science](https://img.shields.io/badge/Data%20Science-Intermediate-green)
 
-[![wakatime](https://wakatime.com/badge/user/4f9bc2ce-0e37-4c93-8186-a16fee2902e1.svg)](https://wakatime.com/@4f9bc2ce-0e37-4c93-8186-a16fee2902e1)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luca9862&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=luca9862)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Luca's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luca9862&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
