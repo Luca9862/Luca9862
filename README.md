@@ -19,6 +19,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luca9862&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Luca9862)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=luca9862)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Luca's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luca9862&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
