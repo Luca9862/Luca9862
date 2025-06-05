@@ -17,6 +17,6 @@
 ![FireBase](https://img.shields.io/badge/FireBase-Intermediate-green)
 ![Data Science](https://img.shields.io/badge/Data%20Science-Intermediate-green)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luca9862&hide=jupyter%20notebook,makefile,objective-c,c%2B%2B&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luca9862&hide=jupyter%20notebook,makefile,objective-c,&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Luca's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luca9862&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
